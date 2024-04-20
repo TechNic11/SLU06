@@ -2,3 +2,5 @@
 - rice
 - butter
 - eggs
+- milk
+- bread
